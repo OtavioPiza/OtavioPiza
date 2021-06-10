@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there, I'm Otavio 👋
+
+I am a currently a student at Purdue University double majoring in Data and Computer Science. My interests are in machine inteligence, software engenieering, and algorithms.
 
 <!--
 **OtavioPiza/OtavioPiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
