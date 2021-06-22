@@ -3,6 +3,9 @@
 I am a currently a student at Purdue University double majoring in Data and Computer Science. My interests are in machine inteligence, software engenieering, and algorithms.
 
 ---
+
+**You can reach out to me via:**
+
 <p align="center">
 
 [![Linkedin: Otavio Piza](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-sartorelli-de-toledo-piza-020a24204/)
