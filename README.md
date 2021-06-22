@@ -4,7 +4,7 @@
 
 ### About me:
 
-I am a currently a student at Purdue University double majoring in Data and Computer Science. My interests are in machine inteligence, software engenieering, and algorithms. My curriculum is available <a href='https://drive.google.com/file/d/1IQp1kk96pS9DpaCHb6aoh93PMQBvU-nS/view?usp=sharing'>here</a>.
+I am a currently a student at Purdue University double majoring in Data and Computer Science. My interests are in machine inteligence, software engenieering, and algorithms. **My curriculum is available <a href='https://drive.google.com/file/d/1IQp1kk96pS9DpaCHb6aoh93PMQBvU-nS/view?usp=sharing'>here</a>.**
 
 - 🔭 I’m currently working on an Algorithm Visualizer
 - 🌱 I’m currently learning PyTorch
