@@ -12,6 +12,14 @@ I am a currently a student at Purdue University double majoring in Data and Comp
 
 ---
 
+### You can reach out to me via:
+
+[![Linkedin: Otavio Piza](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-sartorelli-de-toledo-piza-020a24204/)
+[![Outlook: Otavio Piza](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:osartore@purdue.edu)
+[![Gmail: Otavio Piza](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviostpiza@gmail.com)
+
+---
+
 ### My favorite languages are:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,15 +39,6 @@ I am a currently a student at Purdue University double majoring in Data and Comp
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
----
-
-### You can reach out to me via:
-
-[![Linkedin: Otavio Piza](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-sartorelli-de-toledo-piza-020a24204/)
-[![Outlook: Otavio Piza](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:osartore@purdue.edu)
-[![Gmail: Otavio Piza](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviostpiza@gmail.com)
-
 ---
 
 ### Some pretty looking ~~albeit useless~~ stats:
@@ -49,6 +48,10 @@ I am a currently a student at Purdue University double majoring in Data and Comp
 
 
 ---
+
+### You can also find me on:
+
 [![Discord: Otavio Piza](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/otavio#0076)
 [![Steam: Otavio Piza](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/OtavioPiza/)
+
 ---
