@@ -9,8 +9,8 @@ I am a currently a student at Purdue University double majoring in Data and Comp
 <p align="center">
 
 [![Linkedin: Otavio Piza](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-sartorelli-de-toledo-piza-020a24204/)
-[![Outlook: Otavio Piza](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](osartore@purdue.edu)
-[![Gmail: Otavio Piza](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](otaviostpiza@gmail.com)
+[![Outlook: Otavio Piza](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:osartore@purdue.edu)
+[![Gmail: Otavio Piza](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviostpiza@gmail.com)
 
 </p>
 
