@@ -1,2 +1,2 @@
 #!/bin/sh
-rm *.aux *.pdf *.log *.out *.gz
+rm *.aux *.log *.out *.gz
