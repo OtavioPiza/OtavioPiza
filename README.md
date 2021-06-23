@@ -54,6 +54,8 @@ I am a currently a student at Purdue University double majoring in Data and Comp
 
 ### You can also find me on:
 
+[![Myanimelist: Otavio Piza](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=MyAnimeList&logoColor=white
+)](https://myanimelist.net/profile/OtavioPiza)
 [![Discord: Otavio Piza](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/otavio#0076)
 [![Steam: Otavio Piza](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/OtavioPiza/)
 
