@@ -44,9 +44,11 @@ I am a currently a student at Purdue University double majoring in Data and Comp
 
 ### Some pretty looking ~~albeit useless~~ stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioPiza&count_private=true&show_icons=true&theme=tokyonight)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioPiza&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=8)]()
+![OtavioPiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioPiza&count_private=true&show_icons=true&theme=tokyonight)
 
+![OtavioPiza's github streak](https://github-readme-streak-stats.herokuapp.com/?user=OtavioPiza&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioPiza&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=8)
 
 ---
 
