@@ -9,7 +9,7 @@ I am a currently a student at Purdue University double majoring in Data and Comp
 - 🔭 I’m currently working on an Algorithm Visualizer
 - 🌱 I’m currently learning PyTorch
 - 😄 Pronouns: he/him/his
-
+ 
 ---
 
 ### You can reach out to me via:
