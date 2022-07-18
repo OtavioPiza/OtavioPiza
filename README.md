@@ -1,30 +1,47 @@
-## Hi there, I'm Otavio 👋
+## Hi there, I'm Otavio 🚀
 
 ---
 
 ### About me:
 
-I am a currently a student at Purdue University double majoring in Data and Computer Science. My interests are in machine inteligence, software engenieering, and algorithms. **My curriculum is available <a href='https://drive.google.com/file/d/1IQp1kk96pS9DpaCHb6aoh93PMQBvU-nS/view?usp=sharing'>here</a>.**
+I am currently a Junior majoring in Computer Science at Purdue University. My interests are in Systems Programming, Security, Computer Networks, Software engineering, and Competitive Programming ~~not that I am any good at it~~.   **My curriculum is available <a href='https://drive.google.com/file/d/1IQp1kk96pS9DpaCHb6aoh93PMQBvU-nS/view?usp=sharing'>here</a>.**
 
-- 🔭 I’m currently working on an Algorithm Visualizer
-- 🌱 I’m currently learning PyTorch
+- 🔨 I'm currently working on a C++ REST web framework.
+- 📗 I'm currently studying competitive programming.
 - 😄 Pronouns: he/him/his
+
+### Work Experience
+
+**Google: STEP Intern [May 2022 - Aug 2022]**
+
+**BRASA: Developer [Aug 2021 - Present]**
+- Centralized our API
+- Developed authentication system
+- Redesigned internal tool request and design process
  
+### Personal Projects
+
+**Rest++**
+
+**TodoDoro Timer**
+
+**Algorithm Visualizer**
+
 ---
 
-### You can reach out to me via:
+### Reach out to me via:
 
 [![Linkedin: Otavio Piza](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-sartorelli-de-toledo-piza-020a24204/)
-[![Outlook: Otavio Piza](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:osartore@purdue.edu)
 [![Gmail: Otavio Piza](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviostpiza@gmail.com)
 
 ---
 
 ### My favorite languages are:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypyeScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
