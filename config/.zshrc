@@ -1,5 +1,4 @@
 export ZSH="$HOME/.oh-my-zsh"
-source $ZSH/oh-my-zsh.sh
 
 ZSH_THEME="eastwood"
 
@@ -8,6 +7,7 @@ ZSH_THEME="eastwood"
 #################
 
 plugins=(git zsh-syntax-highlighting)
+source $ZSH/oh-my-zsh.sh
 
 
 #################
@@ -16,4 +16,6 @@ plugins=(git zsh-syntax-highlighting)
 
 alias nvm=nvim
 alias snvm="sudo nvim"
+alias evpn="expressvpn"
+alias lcc="pdflatex"
 
