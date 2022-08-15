@@ -14,23 +14,25 @@ source $ZSH/oh-my-zsh.sh
 #    Aliases    #
 #################
 
+# Compiling
+alias lcc="pdflatex"
+
 # Luks
 alias lkclose="sudo cryptsetup luksClose"
 alias lkopen="sudo cryptsetup luksOpen"
 alias lksus="sudo cryptsetup luksSuspend"
-alias lkres="sudo cryptsetup luksResume"
+
+# Misc
+alias evpn="expressvpn"lias lkres="sudo cryptsetup luksResume"
 
 # Mounting
 alias mount="sudo mount"
 alias umount="sudo umount"
 
+# Text Editing
+alias vim=nvim
+alias svim="sudo nvim"
+
 # Yubikey
 alias ykopen="sudo yubikey-luks-open -d"
 alias ykenroll="sudo yubikey-luks-enroll"
-
-alias vim=nvim
-alias svim="sudo nvim"
-alias evpn="expressvpn"
-alias lcc="pdflatex"
-alias ykopen="yubikey-luks-open -d"
-
