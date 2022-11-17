@@ -8,8 +8,8 @@ ZSH_THEME="eastwood"
 
 plugins=(git)
 source $ZSH/oh-my-zsh.sh
-source /home/otavio/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /home/otavio/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /home/otavio/git/third-party/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /home/otavio/git/third-party/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 #################
 #    Aliases    #
