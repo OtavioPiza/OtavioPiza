@@ -32,3 +32,6 @@ set cc=100
 set clipboard=unnamedplus
 
 filetype plugin indent on
+
+nnoremap <F5> :let _s=@/<Bar>:%s/\s\+$//e<Bar>:let @/=_s<Bar><CR>
+
