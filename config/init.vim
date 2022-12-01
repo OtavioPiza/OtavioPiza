@@ -1,9 +1,8 @@
 call plug#begin()
 Plug 'drewtempelmeyer/palenight.vim'
+Plug 'preservim/nerdtree'
 Plug 'vim-airline/vim-airline'
 Plug 'wlangstroth/vim-racket'
-Plug 'sheerun/vim-polyglot'
-Plug 'rust-lang/rust.vim'
 Plug 'preservim/tagbar'
 Plug 'universal-ctags/ctags'
 Plug 'luochen1990/rainbow'
