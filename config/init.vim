@@ -1,21 +1,12 @@
 call plug#begin()
-Plug 'drewtempelmeyer/palenight.vim'
-Plug 'preservim/nerdtree'
+Plug 'arcticicestudio/nord-vim'
 Plug 'vim-airline/vim-airline'
-Plug 'wlangstroth/vim-racket'
-Plug 'preservim/tagbar'
-Plug 'universal-ctags/ctags'
-Plug 'luochen1990/rainbow'
-Plug 'vim-syntastic/syntastic'
-Plug 'itchyny/lightline.vim'
-Plug 'tpope/vim-surround'
-Plug 'neoclide/coc.nvim', { 'branch': 'release' }
-Plug 'tommcdo/vim-lion'
-Plug 'Shirk/vim-gas'
-Plug 'ntpeters/vim-better-whitespace'
+Plug 'vim-airline/vim-airline-themes'
 call plug#end()
 
-colorscheme palenight
+colorscheme nord
+
+syntax on
 
 set number
 set ruler
@@ -29,8 +20,12 @@ set hlsearch
 set incsearch
 set cc=100
 set clipboard=unnamedplus
+set guifont=DejaVu\ Sans:s12
 
 filetype plugin indent on
 
 nnoremap <F5> :let _s=@/<Bar>:%s/\s\+$//e<Bar>:let @/=_s<Bar><CR>
+
+let g:airline#extensions#tabline#enabled = 1
+let g:airline_powerline_fonts = 1
 
