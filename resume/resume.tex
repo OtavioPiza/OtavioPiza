@@ -137,12 +137,31 @@
 
 \begin{resume_section}{Work Experience}
 
+	\begin{resume_subsection}[Boulder, CO (2023.05 -- 2023.08)]{Google -- Software Engineering Intern}
+
+		\begin{subitems}
+
+			\item Developing an end-to-end debugging framework for Google Search's notification
+			infrastructure responsible for serving over 2 billion users. The new framework enables
+			partner teams to safely manipulate the live system even in a production environment
+			without affecting non-targeted users or introducing breaking changes thus significantly
+			facilitating debugging new and existing features. Additionally, the new tool
+			guarantees developers' changes are enforced for their time to live after which
+			they automatically are reversed.
+
+			\subitem To allow users to more easily interact with the developed framework, I am
+			also extending an internal web application to support the new features.
+
+		\end{subitems}
+
+	\end{resume_subsection}
+
 	\begin{resume_subsection}[Irvine, CA (2022.05 -- 2022.08)]{Google -- STEP Intern}
 
 		\begin{subitems}
 
-			\item Created a full-stack web application for searching inside an internal tool for a
-			user-specified resource, improving system stability by removing the need to perform
+			\item Created a full-stack web application for searching for a user-specified resoucrce
+			in an internal tool, improving system stability by removing the need to perform
 			error-prone manual searches and facilitating debugging.
 
 			\item Developed an SQL database query to search for a user-specified resource inside
@@ -162,68 +181,47 @@
 
 	\end{resume_subsection}
 
-	\begin{resume_subsection}[Remote (2021.08 -- present)]{BRASA -- Fullstack Developer}
-
-		\begin{subitems}
-
-			\item Created a unified authentication system, which supports multiple user types and
-			access levels.
-
-			\item Established an internal tool request and development process, reducing delivery
-			time by 300\%.
-
-			\item Refactored our API into a centralized domain-driven design, improving
-			maintainability and expandability.
-
-			\item Developed a full-stack LinkTree-like app to allow users to easily share their
-			profiles during a conference.
-
-		\end{subitems}
-
-	\end{resume_subsection}
-
 \end{resume_section}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    Personal Projects    %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{resume_section}{Personal Projects}
+\begin{resume_section}{Projects}
 
 	\begin{resume_subsection}[
 			\href{https://www.github.com/OtavioPiza/restpp}{github.com/OtavioPiza/restpp}
-		]{REST++ -- C++ REST Framework}
+		]{SERVERCC -- Distributed IOT Framework}
 
 		\begin{subitems}
 
-			\item Developed web sockets using the C socket library, allowing clients to connect
-			to the server.
+			\item Developed a completly decentralized framework for IOT using the C socket library.
 
-			\item Implemented multiple execution modes, both concurrent and single-threaded,
-			enabling the user to choose the one better suited to their needs.
+			\item Implemented an auto initialization sequence in which a node utilizes one-to-many
+			network communications to learn about other nodes on their network allowing
+			for dynamic asymmetric servers.
 
-			\item Designed a graph-based routing system dispatching the requests to the
-			appropriate handlers.
+			\item Designed a message demultiplexing system that enables multiple threads of
+			execution per node.
 
-			\item Working on building a request-body parser.
+			\item Implemented a recovery system that gracefully handles other nodes disconnecting
+			unexpectedly.
+
+			\item Working on implementing a routing protocol that supports arbitrary indirect
+			connections between nodes.
 
 		\end{subitems}
 
 	\end{resume_subsection}
 
-	\begin{resume_subsection}[
-			\href{https://www.github.com/OtavioPiza/restpp}{github.com/OtavioPiza/restpp}
-		]{TodoDoro -- Productivity TODO List}
+	\begin{resume_subsection}[]{Xinu Operating System Lab}
 
 		\begin{subitems}
 
-			\item Developed a full-stack web-based application with MongoDB, Express, React,
-			and NodeJS, allowing users to create tasks and work on them according to the
-			Pomodoro method.
+			\item Fixed a resource deallocation issue in the operating system's shell which could
+			lead to system outages.
 
-			\item Implemented a JSONWebToken-based authentication system.
-
-			\item Working on sending verification emails after account creation.
+			\item Working on implementing support for file concurrent access among many processes.
 
 		\end{subitems}
 
@@ -245,9 +243,10 @@
 
 			\item Grade Point Average: 3.96 / 4.00.
 
-			\item Dean's List \& Semester Honors: Fall 2020, Spring 2021, Fall 2021, Spring 2022.
+			\item Dean's List \& Semester Honors: Fall 2020, Spring 2021, Fall 2021, Spring 2022,
+			Fall 2022, Spring 2023.
 
-			\item Teaching Assistant: Competitive Programming I (Fall 2022).
+			\item Teaching Assistant: Competitive Programming I \& II (Fall 2022).
 
 		\end{subitems}
 
@@ -261,19 +260,18 @@
 
 \begin{resume_section}{Student Organizations}
 
-	\begin{resume_subsection}{LauchPad -- Treasurer}
+	\begin{resume_subsection}[Remote (2021.08 -- 2022.08)]{BRASA -- Fullstack Developer}
 
 		\begin{subitems}
 
-			\item Responsible for managing the club's fund for events.
+			\item Created a unified authentication system, which supports multiple user types and
+			access levels.
 
-			\item Helped plan mentorship program where first-year mentees get help from
-			upperclassmen mentors developing their projects.
+			\item Established an internal tool request and development process, reducing delivery
+			time by 300\%.
 
-			\item Helped organize an event with AT\&T where club mentees we able to present their
-			projects to recruiters and engineers at the company.
-
-			\item Working on developing a website for the club.
+			\item Refactored our API into a centralized domain-driven design, improving
+			maintainability and expandability.
 
 		\end{subitems}
 
