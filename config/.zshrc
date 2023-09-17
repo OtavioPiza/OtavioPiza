@@ -28,7 +28,7 @@ alias lkres="sudo cryptsetup luksResume"
 alias evpn="expressvpn"
 
 # Mounting
-alias sshf="sshfs -o allow_other,default_permissions "
+alias sshfsd="sshfs -o allow_other,default_permissions,idmap=user,follow_symlinks,reconnect "
 alias mount="sudo mount"
 alias umount="sudo umount"
 
