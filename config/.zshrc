@@ -29,8 +29,8 @@ alias evpn="expressvpn"
 
 # Mounting
 alias sshfsd="sshfs -o allow_other,default_permissions,idmap=user,follow_symlinks,reconnect "
-alias mount="sudo mount"
-alias umount="sudo umount"
+alias mount="mount"
+alias umount="umount"
 
 # Text Editing
 alias vim=nvim
